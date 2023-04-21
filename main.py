@@ -12,6 +12,10 @@ print("Verificando cambios 5356")
 
 print("Verificando cambios 6365")
 
-print(a + b)
+print(a*b - b)
 
-print(a//b)
+print(a//b + a)
+
+print("Verificando cambios")
+
+print("Verificando cambios 2")
