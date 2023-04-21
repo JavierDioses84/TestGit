@@ -4,14 +4,14 @@ a = 25
 
 b = 35
 
-print("Verificando cambios 32")
+print("Verificando cambios 3")
 
-print("Verificando cambios 414")
+print("Verificando cambios 4")
 
-print("Verificando cambios 5356")
+print("Verificando cambios 53")
 
-print("Verificando cambios 6365")
+print("Verificando cambios 63asda65")
 
-print(a + b)
+print(a + b*b)
 
-print(a//b)
+print(a//(b*a))
